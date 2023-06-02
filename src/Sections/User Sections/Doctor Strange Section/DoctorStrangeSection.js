@@ -311,7 +311,7 @@ const OtherProfile = () => {
         ))
       }
         
-      </div>
+      </div> 
     </div>
   );
 };

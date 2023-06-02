@@ -8,7 +8,7 @@ const DoctorStrange = () => {
   return (
     <div className={styles.ParentDoctorStrangeContainer}>
       <LeftHomeSection />
-      <DoctorStrangeSection />
+       <DoctorStrangeSection /> 
       <RightHomeSection />
     </div>
   );

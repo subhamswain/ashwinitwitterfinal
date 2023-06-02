@@ -20,7 +20,7 @@ function Home() {
   return (
     <div className={styles.HomeContainer}>
       <div className={styles.LeftHomeSectionContainer}>
-        <LeftHomeSection />
+         <LeftHomeSection /> 
       </div>
       <div className={styles.MiddleHomeSectionContainer}>
         <MiddleHomeSection />

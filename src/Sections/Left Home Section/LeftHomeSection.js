@@ -7,10 +7,10 @@ import LeftHomePopover from "../../Molecules/Left Home Popover/LeftHomePopover";
 function LeftHomeSection() {
   return (
     <div className={styles.LeftHomeSectionMainContainer}>
-      <LeftHomeButtons />
-      <LeftHomeDialog />
-      <LeftHomePopover />
-    </div>
+      <LeftHomeButtons /> 
+      <LeftHomeDialog /> 
+     <LeftHomePopover />
+    </div> 
   );
 }
 

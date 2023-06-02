@@ -8,10 +8,10 @@ import styles from './RightHomeSection.module.css'
 function RightHomeSection() {
   return (
     <div className={styles.RightHomeSectionContainer} >
-      <SearchBox />
+        <SearchBox /> 
       <RightHomeTrendingBox />
       <RightHomeFollowBox />
-      <RightHomeFooter />
+      <RightHomeFooter /> 
     </div>
   );
 }

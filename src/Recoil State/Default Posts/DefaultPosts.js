@@ -5,27 +5,27 @@ export const DefaultPosts = atom({
   default: [
     {
       id: 1,
-      name: "Doctor Strange",
-      handlerName: "@DoctorStrange",
-      organization: "United States government organization",
+      name: "John Abraham",
+      handlerName: "@john",
+      organization: "Fitness Icon",
       profilePic:
-        "https://www.sideshow.com/storage/product-images/909994/doctor-strange_marvel_square.jpg",
+        "https://th.bing.com/th/id/OIP.oOqkJD0_I8K8VIqng7UR_wHaFj?pid=ImgDet&rs=1",
       followers: 200,
       followings: 400,
       joinedDate: "22 dec 2022",
       tweets: [
         {
-          tweetText: "Never tamper with the spell.",
-          tweetPic: "https://giffiles.alphacoders.com/214/214285.gif",
-          commentText: "Never tamper with the spell.",
+          tweetText: "keep going",
+          tweetPic: "https://timesofindia.indiatimes.com/thumb/msid-65354755,imgsize-119106,width-800,height-600,resizemode-4/65354755.jpg",
+          commentText: "keep going",
           tweetCount: 100,
           retweetCount: 100,
           likesCount: 100,
           viewsCount: "102k",
           TweetReplies: [
             {
-              name: "Christine Palmer",
-              handlerName: "@Christine",
+              name: "john abraham",
+              handlerName: "john",
               tweetReplyText:
                 "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             },
@@ -41,10 +41,10 @@ export const DefaultPosts = atom({
     },
     {
       id: 2,
-      name: "Scarlet Witch",
-      handlerName: "@TheScarletWitch",
+      name: "Hritik Roshan",
+      handlerName: "@HRX23",
       profilePic:
-        "https://www.sideshow.com/storage/product-images/909698/scarlet-witch_marvel_square.jpg",
+        "https://th.bing.com/th/id/OIP.unfjgNTcXj-NFKuZemyQTgHaL2?pid=ImgDet&rs=1",
       organization: "",
       followers: 200,
       followings: 400,
@@ -53,7 +53,7 @@ export const DefaultPosts = atom({
         {
           tweetText: "I have everything under control.",
           tweetPic:
-            "https://media0.giphy.com/media/1Euph36tcV2KmmgGEC/giphy.gif",
+            "https://images6.alphacoders.com/936/936524.jpg",
           commentText: "I have everything under control.",
           tweetCount: 200,
           retweetCount: 200,
@@ -79,19 +79,19 @@ export const DefaultPosts = atom({
     },
     {
       id: 3,
-      name: "Spider Man",
-      handlerName: "@SpiderMan",
+      name: "kiara advani",
+      handlerName: "@kiara43",
       profilePic:
-        "https://im.rediff.com/300-300/movies/2019/jul/08spider-man1.jpg",
+        "https://1.bp.blogspot.com/-yFokkKe1Bm0/XyahKuUF5FI/AAAAAAAACfc/ifK_gNL-zycdCczF7YnMyJtfAVG_DVziACLcBGAsYHQ/s1600/a862615ab535f273a7c317f5b6ca734b.jpg",
       organization: "",
       followers: 200,
       followings: 400,
       joinedDate: "22 dec 2022",
       tweets: [
         {
-          tweetText: "With great power comes great responsibility.",
-          tweetPic: "https://giffiles.alphacoders.com/155/15523.gif",
-          commentText: "With great power comes great responsibility.",
+          tweetText: "kiara advani",
+          tweetPic: "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2023/02/07/2571337-untitled-design-2023-02-07t224926.366.jpg",
+          commentText: "saddi hogayi #realwalapic with sid",
 
           tweetCount: 700,
           retweetCount: 700,
@@ -117,11 +117,11 @@ export const DefaultPosts = atom({
     },
     {
       id: 4,
-      name: "Loki",
-      handlerName: "@PrinceOfAsgard",
+      name: "Hritik Rosan",
+      handlerName: "@hrx23",
       profilePic:
-        "https://c.sop.saavncdn.com/Off-The-Top-e489-Loki-episodes-1-2-English-2021-500x500.jpg",
-      organization: "",
+        "https://th.bing.com/th/id/OIP.unfjgNTcXj-NFKuZemyQTgHaL2?pid=ImgDet&rs=1",
+      organization: "greek god",
       followers: 200,
       followings: 400,
       joinedDate: "22 dec 2022",
@@ -129,7 +129,7 @@ export const DefaultPosts = atom({
         {
           tweetText: "Trust me, I didn't do anything.",
           tweetPic:
-            "https://thumbs.gfycat.com/HelplessImpeccableGuanaco-size_restricted.gif",
+            "https://wallpaperaccess.com/full/1329297.jpg",
           commentText: "Trust me, I didn't do anything.",
 
           tweetCount: 400,
@@ -156,10 +156,10 @@ export const DefaultPosts = atom({
     },
     {
       id: 5,
-      name: "Natasha Romanoff",
-      handlerName: "@BlackWidow",
+      name:"Sidharth malhotra",
+      handlerName: "@sid45",
       profilePic:
-        "https://c.sop.saavncdn.com/Off-The-Top-8427-Black-Widow-English-2021-500x500.jpg",
+        "https://th.bing.com/th/id/OIP.29bnAuYTf9TBCueaaoKN0QHaFD?pid=ImgDet&rs=1",
       organization: "",
       followers: 200,
       followings: 400,
@@ -168,7 +168,7 @@ export const DefaultPosts = atom({
         {
           tweetText: "You should know, I'm a better shot when I'm pissed off.",
           tweetPic:
-            "https://i.pinimg.com/originals/b0/6b/05/b06b05ba3402b9c482f900d75b18ac31.gif",
+            "https://wallsdesk.com/wp-content/uploads/2016/12/Sidharth-Malhotra-Wallpapers-HD.jpg",
           commentText:
             "You should know, I'm a better shot when I'm pissed off.",
 

@@ -310,7 +310,7 @@ const IncredibleHulkSection = () => {
             bottom: "129.3rem",
             cursor: "pointer",
           }}
-          src="https://www.sideshow.com/storage/product-images/3002082/the-incredible-hulk_marvel_square.jpg"
+          src=""
           alt="snub"
         ></img>
       </div>
