@@ -13,7 +13,7 @@ function Router() {
       <Routes>
         <Route path="/" element={<Login />}></Route>
         <Route path="/signup" element={<SignUp />}></Route>
-        <Route path="/home" element={<Home />}></Route>
+        <Route path="/home" exact={true} element={<Home />}></Route>
         <Route path="/profile" element={<Profile />}></Route>
         <Route path="/peopleprofile/:name" element={<PeopleProfile />}></Route>
         <Route path="/thread" element={<Thread />}></Route>

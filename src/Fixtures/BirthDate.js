@@ -15,8 +15,8 @@ const monthArray = [
   "November",
   "December",
 ];
-const yearArray = Array(25)
-  .fill(2000)
+const yearArray = Array(150)
+  .fill(1924)
   .map((year, index) => year + index);
 
 module.exports = {

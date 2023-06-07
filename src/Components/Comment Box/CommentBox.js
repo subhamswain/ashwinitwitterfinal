@@ -25,8 +25,8 @@ function CommentBox({ handleClose }) {
     setTweetRelpy(e.target.value);
   }
   const handleImageUpload = (event) => {
-    setImage(URL.createObjectURL(event.target.files[0]));
-    console.log(event.target.files[0]);
+    setImage(URL.createObjectURL(event.target.files[1]));
+    console.log(event.target.files[1]);
   };
 
   const handleImageClick = () => {

@@ -19,16 +19,16 @@ const buttonData = [
     link: "/profile",
     icon: <PersonOutlineOutlinedIcon style={{ fontSize: "1.7rem" }} />,
   },
-  {
-    title: "Twitter Blue",
-    link: "/twitterblue",
-    icon: <FormatBoldOutlinedIcon style={{ fontSize: "1.7rem" }} />,
-  },
-  {
-    title: "Topics",
-    link: "/topics",
-    icon: <TopicOutlinedIcon style={{ fontSize: "1.7rem" }} />,
-  },
+  // {
+  //   title: "Twitter Blue",
+  //   link: "/twitterblue",
+  //   icon: <FormatBoldOutlinedIcon style={{ fontSize: "1.7rem" }} />,
+  // },
+  // {
+  //   title: "Topics",
+  //   link: "/topics",
+  //   icon: <TopicOutlinedIcon style={{ fontSize: "1.7rem" }} />,
+  // },
 
   {
     title: "Bookmarks",
@@ -41,11 +41,7 @@ const buttonData = [
     icon: <ListAltRoundedIcon style={{ fontSize: "1.7rem" }} />,
   },
 
-  {
-    title: "Twitter Circle",
-    link: "/twittercircle",
-    icon: <PeopleAltOutlinedIcon style={{ fontSize: "1.7rem" }} />,
-  },
+
 ];
 
 function DrawerButtons() {
